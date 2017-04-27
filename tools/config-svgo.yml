@@ -46,7 +46,7 @@ plugins:
   - mergePaths: false
   - removeUnusedNS: true
   - transformsWithOnePath: false
-  - addFillStrokeClass: true
+  - addFillStrokeClass: false
   - removeStyleAttr: true
   - sortAttrs: true
   - removeTitle: false
