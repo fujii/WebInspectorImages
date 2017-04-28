@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16"
+   id="svg9882"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="CallTrees.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     id="namedview40"
+     showgrid="false"
+     inkscape:snap-grids="true"
+     inkscape:zoom="53.3125"
+     inkscape:cx="4.8393904"
+     inkscape:cy="7.9624853"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9882"
+     inkscape:snap-to-guides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4167" />
+  </sodipodi:namedview>
+  <defs
+     id="defs9884" />
+  <metadata
+     id="metadata9887">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     width="15.003705"
+     height="15.003344"
+     rx="1.5143198"
+     ry="1.5142833"
+     x="0.52333057"
+     y="0.50013322"
+     id="rect4319-5"
+     style="display:inline;overflow:visible;visibility:visible;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:#acadaa;stroke-width:1.00000095;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new" />
+  <rect
+     style="fill:#8f918c;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4226"
+     width="8.140131"
+     height="1.9387968"
+     x="2.2200646"
+     y="2.9519157"
+     ry="0.5"
+     rx="0.49999997" />
+  <rect
+     style="fill:#8f918c;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4226-6"
+     width="7.539896"
+     height="1.9387968"
+     x="5.0149064"
+     y="7.0324063"
+     ry="0.5"
+     rx="0.5" />
+  <rect
+     style="fill:#8f918c;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4226-2"
+     width="5.5891342"
+     height="1.9387968"
+     x="8.2411671"
+     y="11.112898"
+     ry="0.5"
+     rx="0.49999997" />
+  <path
+     style="fill:#8f918c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 2.3926463,9.0836112 4.129332,8.0004215 2.4014711,6.9116996"
+     id="path4169"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#8f918c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 5.602935,13.165674 7.3396207,12.082485 5.6117598,10.993763"
+     id="path4169-3"
+     inkscape:connector-curvature="0" />
+</svg>
