@@ -7,10 +7,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16"
-   id="svg4491">
+   id="svg4491"
+   sodipodi:docname="Storage.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="0.61016949"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4491" />
   <defs
      id="defs4493">
     <linearGradient
@@ -72,7 +96,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
@@ -95,13 +119,13 @@
      d="m 31.999999,5.3320975 a 2.3660977,0.66790265 0 1 1 -4.732195,0 2.3660977,0.66790265 0 1 1 4.732195,0 z"
      transform="matrix(2.5358209,0,0,4.4916659,-67.146268,-19.949996)"
      id="path18855"
-     style="fill:#000000;fill-opacity:1;stroke:none" />
+     style="fill:#123456;fill-opacity:1;stroke:none" />
   <path
      d="m 2.0000051,6.6875072 c 0,2.8529956 0,0 0,2.8529956 6.308843,3.2838572 11.9999869,0 11.9999869,0 l 0,-2.8529956 c 0,0 -6.1788235,3.1717768 -11.9999869,0 z"
      id="path18864"
-     style="fill:#000000;fill-opacity:1;stroke:none" />
+     style="fill:#123456;fill-opacity:1;stroke:none" />
   <path
      d="m 2.0000051,10.68751 c 0,2.852998 0,0 0,2.852998 6.3088441,3.283857 11.9999869,0 11.9999869,0 l 0,-2.852998 c 0,0 -6.178823,3.171777 -11.9999867,0 z"
      id="path18853-3-4-6"
-     style="fill:#000000;fill-opacity:1;stroke:none" />
+     style="fill:#123456;fill-opacity:1;stroke:none" />
 </svg>

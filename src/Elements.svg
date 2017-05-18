@@ -8,10 +8,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16"
-   id="svg3051">
+   id="svg3051"
+   sodipodi:docname="Elements.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="53"
+     inkscape:cx="8.0754717"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3051" />
   <defs
      id="defs3053">
     <linearGradient
@@ -42,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
@@ -66,5 +90,5 @@
   <path
      d="m 6.012158,2 0,4.0121577 1.604864,0 0,1.6048635 -3.574469,0 -0.401216,0 0,0.401216 0,1.9696049 -1.641337,0 0,3.9756849 4.012158,0 0,-3.9756849 -1.568389,0 0,-1.5683891 7.185411,0 0,1.5683891 -1.604864,0 0,4.0121579 L 14,14 l 0,-4.0121579 -1.568389,0 0,-1.9696049 0,-0.401216 -0.401215,0 -3.610943,0 0,-1.6048635 1.604863,0 0,-4.0121577 -4.012158,0 z"
      id="rect8421-0"
-     style="color:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill:#123456" />
 </svg>
