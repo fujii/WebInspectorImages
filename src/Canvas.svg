@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Canvas.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4536">
+      <stop
+         style="stop-color:#f0ffff;stop-opacity:1;"
+         offset="0"
+         id="stop4532" />
+      <stop
+         style="stop-color:#c0c0c0;stop-opacity:1"
+         offset="1"
+         id="stop4534" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4536"
+       id="linearGradient4538"
+       x1="5"
+       y1="0"
+       x2="12"
+       y2="16"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="53"
+     inkscape:cx="4.7830189"
+     inkscape:cy="7.9245283"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:showpageshadow="false"
+     showborder="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4504" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4520"
+     width="16"
+     height="16"
+     x="0"
+     y="0" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient4538);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4522"
+     width="14"
+     height="14"
+     x="1"
+     y="1" />
+  <path
+     style="fill:#8b4513;fill-opacity:1;stroke:none;stroke-width:1"
+     d="m 13.025662,3.0113491 c -0.1061,0.00178 -0.246981,0.066863 -0.3978,0.2072247 C 9.7999524,5.8503874 9.305736,5.8754136 6.6608591,9.2902582 7.3705701,9.3152603 7.9798302,9.7469156 8.2962597,10.367827 11.427338,7.2031173 11.78024,5.511255 13.136162,3.4672434 c 0.136297,-0.2759403 0.06633,-0.4588676 -0.1105,-0.4558943 z"
+     id="path4507" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+     d="m 6.395659,9.8704874 c -0.2441728,0.0054 -0.5249176,0.069374 -0.7956003,0.2279476 -0.9343425,0.547374 -0.7276524,2.50807 -2.6520011,2.507419 0.1821971,0.661714 2.9464647,0.816622 4.0885019,0.124334 0.5953348,-0.360884 1.0346295,-1.028116 0.7956002,-1.8443 C 7.690084,10.400761 7.1281778,9.8542658 6.395659,9.8704874 Z"
+     id="path9264" />
+</svg>
